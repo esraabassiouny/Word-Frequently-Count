@@ -1,0 +1,8 @@
+C:/Users/HP/Documents/word_frequency_count/build/Desktop_Qt_6_7_0_MSVC2019_64bit-Debug/CMakeFiles/word_frequency_count.dir
+C:/Users/HP/Documents/word_frequency_count/build/Desktop_Qt_6_7_0_MSVC2019_64bit-Debug/CMakeFiles/edit_cache.dir
+C:/Users/HP/Documents/word_frequency_count/build/Desktop_Qt_6_7_0_MSVC2019_64bit-Debug/CMakeFiles/rebuild_cache.dir
+C:/Users/HP/Documents/word_frequency_count/build/Desktop_Qt_6_7_0_MSVC2019_64bit-Debug/CMakeFiles/list_install_components.dir
+C:/Users/HP/Documents/word_frequency_count/build/Desktop_Qt_6_7_0_MSVC2019_64bit-Debug/CMakeFiles/install.dir
+C:/Users/HP/Documents/word_frequency_count/build/Desktop_Qt_6_7_0_MSVC2019_64bit-Debug/CMakeFiles/install/local.dir
+C:/Users/HP/Documents/word_frequency_count/build/Desktop_Qt_6_7_0_MSVC2019_64bit-Debug/CMakeFiles/word_frequency_count_autogen_timestamp_deps.dir
+C:/Users/HP/Documents/word_frequency_count/build/Desktop_Qt_6_7_0_MSVC2019_64bit-Debug/CMakeFiles/word_frequency_count_autogen.dir

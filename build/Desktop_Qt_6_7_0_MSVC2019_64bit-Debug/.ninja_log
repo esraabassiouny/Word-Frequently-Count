@@ -1,0 +1,10 @@
+# ninja log v5
+3	66	0	C:/Users/HP/Documents/word_frequency_count/build/Desktop_Qt_6_7_0_MSVC2019_64bit-Debug/CMakeFiles/cmake.verify_globs	39608768f2d9cbf3
+68	296	7362062410771237	word_frequency_count_autogen/timestamp	a41cbe98dfcb011c
+68	296	7362062410771237	word_frequency_count_autogen/mocs_compilation.cpp	a41cbe98dfcb011c
+68	296	7362062410771237	C:/Users/HP/Documents/word_frequency_count/build/Desktop_Qt_6_7_0_MSVC2019_64bit-Debug/word_frequency_count_autogen/timestamp	a41cbe98dfcb011c
+68	296	7362062410771237	C:/Users/HP/Documents/word_frequency_count/build/Desktop_Qt_6_7_0_MSVC2019_64bit-Debug/word_frequency_count_autogen/mocs_compilation.cpp	a41cbe98dfcb011c
+299	1806	7362062426136690	CMakeFiles/word_frequency_count.dir/main.cpp.obj	ce85a60605321b29
+296	1809	7362062426161389	CMakeFiles/word_frequency_count.dir/word_frequency_count_autogen/mocs_compilation.cpp.obj	3f85b918bcaac2e7
+302	1811	7362062426181500	CMakeFiles/word_frequency_count.dir/mainwindow.cpp.obj	75e0e7c9fb68734f
+1811	2099	7362062428932097	word_frequency_count.exe	8a90f07bc6468d95
